@@ -3,4 +3,8 @@ A Second Line!
 Yay Line Three
 
 A Remote Change.
+<<<<<<< HEAD
 Changes!!!!!
+=======
+Another Change.
+>>>>>>> origin/master
